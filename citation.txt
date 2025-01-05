@@ -1,0 +1,6 @@
+@article{REPO103,
+    author = "Zhou, Kaiyang and Yang, Jingkang and Loy, Chen Change and Liu, Ziwei",
+    journal = "International Journal of Computer Vision (IJCV)",
+    title = "{Learning to Prompt for Vision-Language Models}",
+    year = "2022"
+}
